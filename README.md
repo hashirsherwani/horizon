@@ -1,2 +1,2 @@
 # Horizon - Hashir Sherwani
-Contains the answers to questions and the KNIME workflow
+Contains the answers to the questions and the KNIME workflow
